@@ -92,5 +92,21 @@ a{
     margin: 0 10px;
 }
 .random{
-    padding-bottom: 80px;
+    padding-bottom: 120px;
+    padding-top: 50px;
+}
+.quote-container{
+    background-color: #e5e7eb;
+    padding: 120px 400px ;
+}
+.quote{
+    font-family: "Times New Roman","Open Sans","Helvetica Neue",Helvetica,Arial,sans-serif;
+    text-align: left;
+    font-size: 36px;
+    font-style: oblique;
+}
+.signature{
+    text-align: right;
+    font-size: 24px;
+    font-weight: bold;
 }
